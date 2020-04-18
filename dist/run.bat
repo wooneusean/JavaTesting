@@ -1,1 +1,0 @@
-java -jar OSAns.jar
